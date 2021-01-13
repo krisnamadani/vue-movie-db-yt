@@ -1,4 +1,6 @@
 # vue-movie-db-yt
+Tutorial Link : https://www.youtube.com/watch?v=UHewcsv6uJY&t=122s
+API Link : http://www.omdbapi.com/
 
 ## Project setup
 ```
